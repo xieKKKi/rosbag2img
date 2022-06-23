@@ -1,6 +1,5 @@
 # rosbag2img
-transfer image topic from rosbag to image.
-each image is named by the corresponding timestamp. 
+transfer image topic from rosbag to image, each image is named by the corresponding timestamp. 
 
 ### usage:
 edit file path and ros topic in rosbag2img.py:
